@@ -1,4 +1,4 @@
-# javascript-todolist
+# JavaScript Todo List
 A todo list with due dates and category filters made in JavaScript.
 
 ![Screenshot of todo list](screenshot.png)
